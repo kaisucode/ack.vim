@@ -29,8 +29,8 @@ endif
 let s:ack_mappings = {
       \ "t": "<C-W><CR><C-W>T",
       \ "T": "<C-W><CR><C-W>TgT<C-W>j",
-      \ "o": "<CR>",
-      \ "O": "<CR><C-W>p<C-W>c",
+      \ "O": "<CR>",
+      \ "o": "<CR><C-W>p<C-W>c",
       \ "go": "<CR><C-W>p",
       \ "h": "<C-W><CR><C-W>K",
       \ "H": "<C-W><CR><C-W>K<C-W>b",
