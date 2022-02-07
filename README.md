@@ -30,18 +30,18 @@ copy-and-paste convenience:
 
 #### Pathogen
 
-    $ git clone https://github.com/mileszs/ack.vim.git ~/.vim/bundle/ack.vim
+    $ git clone https://github.com/kaisucode/ack.vim.git ~/.vim/bundle/ack.vim
 
 #### Vundle
 
 ```vim
-Plugin 'mileszs/ack.vim'
+Plugin 'kaisucode/ack.vim'
 ```
 
 #### NeoBundle
 
 ```vim
-NeoBundle 'mileszs/ack.vim'
+NeoBundle 'kaisucode/ack.vim'
 ```
 
 #### Manual (not recommended)
@@ -67,7 +67,7 @@ after installing, or [`doc/ack.txt`][doc] in the repo, for more information.)
 
 For more ack help see [ack documentation](http://beyondgrep.com/documentation/).
 
-[doc]: https://github.com/mileszs/ack.vim/blob/master/doc/ack.txt
+[doc]: https://github.com/kaisucode/ack.vim/blob/master/doc/ack.txt
 
 ### Keyboard Shortcuts
 
@@ -95,7 +95,7 @@ Some characters have special meaning, and need to be escaped in your search
 pattern. For instance, `#`. You need to escape it with `:Ack '\\\#define
 foo'` to search for '#define foo'. See [issue #5].
 
-[issue #5]: https://github.com/mileszs/ack.vim/issues/5
+[issue #5]: https://github.com/kaisucode/ack.vim/issues/5
 
 ## Possibly FAQ
 
